@@ -1,3 +1,6 @@
+# 抓怕评论人数可能要用到递归，造成豆瓣服务器请求陡增，有时候会封杀ip。
+
+
 import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
