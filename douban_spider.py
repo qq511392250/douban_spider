@@ -19,8 +19,11 @@ User_Agents = [{
     {'User-Agent':'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler 4.0)'},
     {'User-Agent':'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'}]
 
+
+
+#使用代理ip 如果有必要的话。
 #proxy_list = [
-    ###### '113.102.80.39:8118',
+     '113.102.80.39:8118',
 
 #]
 
